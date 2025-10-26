@@ -47,13 +47,6 @@ Currently focusing on:
 
 ---
 
-### 🧠 Current Focus
-- 🏡 [**KumpulProperti.com**](https://kumpulproperti.com) — AI semantic property search engine  
-- 💬
-- 💻 
-
----
-
 ### 📦 More Repositories
 - [**voice_ai_assistant_rust**](https://github.com/kukuhtw/voice_ai_assistant_rust) — Real-time multimodal Voice AI in Rust: streaming STT → LLM intent → natural TTS + 3D avatar lip-sync.
 - [**livetranslation_rust**](https://github.com/kukuhtw/livetranslation_rust) — “Finish speaking, instantly translated.” Rust-powered low-latency speech → translation.
@@ -67,13 +60,6 @@ Currently focusing on:
 - [**vibbon_rust**](https://github.com/kukuhtw/vibbon_rust) — Video watermarking for brand & event campaigns (Rust).
 - [**tokodonat_jlo**](https://github.com/kukuhtw/tokodonat_jlo) — Open-source donut shop chatbot: orders, tax, shipping, discounts (PHP).
 - [**brooker_palugada**](https://github.com/kukuhtw/brooker_palugada) — Seller-buyer_)**_**]()
-
----
-
-### 🧠 Current Focus
-- 🏡 
-- 💬 
-- 💻 
 
 ---
 
