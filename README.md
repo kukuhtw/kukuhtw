@@ -49,8 +49,8 @@ Currently focusing on:
 
 ### 🧠 Current Focus
 - 🏡 [**KumpulProperti.com**](https://kumpulproperti.com) — AI semantic property search engine  
-- 💬 **AIChatbot Foundry** — cloneable RAG chatbot framework  
-- 💻 **KumpulBlogger.com** — decentralized ad network for creators  
+- 💬
+- 💻 
 
 ---
 
